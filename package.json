@@ -1,0 +1,19 @@
+{
+  "name": "rafa",
+  "version": "1.0.0",
+  "description": "otro git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaS92/npm-lab-houston-web-030920.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaS92/npm-lab-houston-web-030920/issues"
+  },
+  "homepage": "https://github.com/RafaS92/npm-lab-houston-web-030920#readme"
+}
